@@ -13,7 +13,8 @@ Final Test : 9,24,3,5,17,6,0,13,19,10,11,21,12,1,20,16,4,14,12,15,8,18,23,2,7
 
 #----#-- BFS - Breadth First Search --#----#
 
-Sno	|	board									| number of moves |		Time Taken (Seconds)|				solution (s)
+Sno	|	board									| number of moves |		Time Taken (Seconds)|				solution (s) |
+----|-----------------------|-----------------|-----------------------|--------------------|
 1		1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,24		1			0.00000000					R
 2		1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,0,23,24		2			0.00097060					RR
 3		1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,0,21,22,23,24		4			0.00000000					RRRR
@@ -27,6 +28,7 @@ Sno	|	board									| number of moves |		Time Taken (Seconds)|				solution (s)
 #----#-- DFS - Depth First Search --#----#
 
 Sno	|	board									| number of moves |		Time Taken (Seconds)|				solution (s)
+
 1		1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,24		1			0.00000000					R
 2		1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,0,23,24		Program executes forever as there are many branches because of the depth.
 
